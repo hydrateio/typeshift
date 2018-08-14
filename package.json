@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "typeshift",
+  "description": "TypeShift provides a common schema library for converting between different type systems.",
+  "repository": "hydrateio/typeshift",
+  "author": "Hydrate <dev@hydrate.io>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test",
+    "prepare": "lerna run prepare"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.0.4"
+  }
+}
