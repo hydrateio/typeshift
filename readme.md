@@ -51,6 +51,7 @@ These adaptors only support conversion from `Source -> TypeShift`.
 
 - [json schema](http://json-schema.org) - Allows you to annotate and validate JSON documents.
 - [react-docgen](https://github.com/reactjs/react-docgen) - Extracts documentation info from React component files.
+- [apollo-cli](https://github.com/apollographql/apollo-cli) - CLI for managing Apollo workflows.
 - [Swagger / OpenAPI](https://swagger.io/docs/specification/data-models)
 
 **TODO**: needs more background research.
